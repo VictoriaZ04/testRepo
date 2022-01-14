@@ -1,7 +1,7 @@
 public class one{
-    int j = 5;
+    int j = 9;
 
     public one(){
-        j++;
+        j--;
     }
 }
